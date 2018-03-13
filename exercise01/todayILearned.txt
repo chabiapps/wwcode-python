@@ -1,0 +1,17 @@
+ 
+print - won't print 2 diferent types of variable
+ex: print(<int>a, <string>b)
+
+input - generates a string result
+      - you have to typecast it if you want it to not be a string
+      - you have to typecast it before performing any operations
+
+There's 2 different ways of printing strings
+print('string {}'.format(<variable>)
+//string variable_value
+
+print(f'string {variable}')
+
+python is sensitive to spacing since it doesn't have any terminator like the semicolon on other programming languages.
+
+alias python = python3
